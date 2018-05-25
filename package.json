@@ -1,0 +1,23 @@
+{
+  "name": "mytestcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "has-flag": "^3.0.0",
+    "ora": "^2.1.0"
+  },
+  "bin": {
+    "scion": "bin/scion"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
